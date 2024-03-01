@@ -1,0 +1,6 @@
+task is a CLI for managing your TODOs.
+
+List out all your completed tasks of today. 
+
+Usage:
+    task completed

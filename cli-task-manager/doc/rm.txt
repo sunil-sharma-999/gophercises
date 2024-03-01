@@ -1,0 +1,10 @@
+task is a CLI for managing your TODOs.
+
+Delete your task by giving ID.
+You can get ID from list command
+
+Usage:
+    task rm <ID>
+
+Example:
+    task rm 1

@@ -1,0 +1,10 @@
+task is a CLI for managing your TODOs.
+
+Mark your task done for given ID.
+You can get ID from list command
+
+Usage:
+    task do <ID>
+
+Example:
+    task do 1

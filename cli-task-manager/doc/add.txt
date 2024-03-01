@@ -1,0 +1,7 @@
+task is a CLI for managing your TODOs.
+
+Usage:
+    task add <Task to be added>
+
+Example:
+    task add finish building CLI Task Manager
